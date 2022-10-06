@@ -1,0 +1,73 @@
+@media screen and (max-width: 700px) {
+
+    header h1{
+
+        font-size: 3.5em;
+
+    }
+
+    header p {
+
+        font-size: 1em;
+
+    }
+
+    section {
+         
+        font-size: 1.4em;
+    }
+
+    footer{
+
+        font-size: 0.6em;
+    }
+
+}
+
+@media screen and (max-width: 330px) {
+
+    header h1{
+
+        font-size: 2.8em;
+
+    }
+
+    header p {
+
+        font-size: 1em;
+      
+    }
+
+    section {
+        
+        background-position: center right;
+        font-size: 1.2em;
+
+    }
+
+}
+
+
+
+@media screen and (max-width: 250px) {
+
+    header h1{
+
+        font-size: 2em;
+
+    }
+
+    header p {
+
+        font-size: 0.8em;
+      
+    }
+
+    section {
+        
+        background-position: center right;
+        font-size: 1em;
+
+    }
+
+}
